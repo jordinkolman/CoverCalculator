@@ -1,0 +1,15 @@
+C:\Users\jordi\OneDrive\Documents\School\CEIS209\programs\CoverCalculator\bin\Debug\net6.0\CoverCalculator.exe
+C:\Users\jordi\OneDrive\Documents\School\CEIS209\programs\CoverCalculator\bin\Debug\net6.0\CoverCalculator.deps.json
+C:\Users\jordi\OneDrive\Documents\School\CEIS209\programs\CoverCalculator\bin\Debug\net6.0\CoverCalculator.runtimeconfig.json
+C:\Users\jordi\OneDrive\Documents\School\CEIS209\programs\CoverCalculator\bin\Debug\net6.0\CoverCalculator.dll
+C:\Users\jordi\OneDrive\Documents\School\CEIS209\programs\CoverCalculator\bin\Debug\net6.0\CoverCalculator.pdb
+C:\Users\jordi\OneDrive\Documents\School\CEIS209\programs\CoverCalculator\obj\Debug\net6.0\CoverCalculator.csproj.AssemblyReference.cache
+C:\Users\jordi\OneDrive\Documents\School\CEIS209\programs\CoverCalculator\obj\Debug\net6.0\CoverCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jordi\OneDrive\Documents\School\CEIS209\programs\CoverCalculator\obj\Debug\net6.0\CoverCalculator.AssemblyInfoInputs.cache
+C:\Users\jordi\OneDrive\Documents\School\CEIS209\programs\CoverCalculator\obj\Debug\net6.0\CoverCalculator.AssemblyInfo.cs
+C:\Users\jordi\OneDrive\Documents\School\CEIS209\programs\CoverCalculator\obj\Debug\net6.0\CoverCalculator.csproj.CoreCompileInputs.cache
+C:\Users\jordi\OneDrive\Documents\School\CEIS209\programs\CoverCalculator\obj\Debug\net6.0\CoverCalculator.dll
+C:\Users\jordi\OneDrive\Documents\School\CEIS209\programs\CoverCalculator\obj\Debug\net6.0\refint\CoverCalculator.dll
+C:\Users\jordi\OneDrive\Documents\School\CEIS209\programs\CoverCalculator\obj\Debug\net6.0\CoverCalculator.pdb
+C:\Users\jordi\OneDrive\Documents\School\CEIS209\programs\CoverCalculator\obj\Debug\net6.0\CoverCalculator.genruntimeconfig.cache
+C:\Users\jordi\OneDrive\Documents\School\CEIS209\programs\CoverCalculator\obj\Debug\net6.0\ref\CoverCalculator.dll
